@@ -1,5 +1,5 @@
 # Mesh_demo
- <H1>Aplicacion basica de Mesh en Esp32</H1>
+ <H1> <center>Aplicacion basica de Mesh en Esp32</center></H1>
 
 <H3>usando libreria: "painlessMesh.h"</H3>
 
