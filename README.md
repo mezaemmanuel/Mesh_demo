@@ -7,5 +7,5 @@
 
 <H4>
 - 1 Master receptor de la informacion existente en la red.</H4>
-<H4>- x numero de nodos.</H4>
+<H4>- X numero de nodos.</H4>
 
